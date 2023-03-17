@@ -2,7 +2,7 @@
 
 1. The discovery of churning customers that is dependent of if they have multiple subscriptions or higher charges that causes one to churn
 2. The more churned customers use older media (phones, tv) than those who use internet, streaming etc.
-3. #Data Dictionary
+3. 
   Churn, text, Customers that left or are no longer a customer, ex; Yes
   Count, interger, The total count of a list, ex; 520 
   Contract_type_id, interger, The type of contract a customer would have, ex; 2
